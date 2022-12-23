@@ -1,0 +1,91 @@
+{
+  "configVersion": 1,
+  "timestamp": 1671792384746,
+  "index": "/letsgoapp/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/letsgoapp/431.b28c5ebf6fe0a9f6.js",
+        "/letsgoapp/73.af8b464fa2bd4b25.js",
+        "/letsgoapp/favicon.ico",
+        "/letsgoapp/index.html",
+        "/letsgoapp/main.e9fea21204f0633b.js",
+        "/letsgoapp/manifest.webmanifest",
+        "/letsgoapp/polyfills.4e4859c0aa531ce0.js",
+        "/letsgoapp/runtime.cf4069cd491ef443.js",
+        "/letsgoapp/styles.cd6fe7f7403d0e0e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/letsgoapp/assets/Logo.svg",
+        "/letsgoapp/assets/Planning.jpg",
+        "/letsgoapp/assets/Prepare.jpg",
+        "/letsgoapp/assets/icons/icon-128x128.png",
+        "/letsgoapp/assets/icons/icon-144x144.png",
+        "/letsgoapp/assets/icons/icon-152x152.png",
+        "/letsgoapp/assets/icons/icon-192x192.png",
+        "/letsgoapp/assets/icons/icon-384x384.png",
+        "/letsgoapp/assets/icons/icon-512x512.png",
+        "/letsgoapp/assets/icons/icon-72x72.png",
+        "/letsgoapp/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/letsgoapp/431.b28c5ebf6fe0a9f6.js": "c9017e9d0c8c793ea25b8da07acc032472d3b91f",
+    "/letsgoapp/73.af8b464fa2bd4b25.js": "8409acce6a09ef1cbb3dd5f418251795530cc824",
+    "/letsgoapp/assets/Logo.svg": "b1933d72c58ff607979deb89f059cd06ff6dc20d",
+    "/letsgoapp/assets/Planning.jpg": "b9317ae5e376deb41a3dfb5f1a66e0f7c8482780",
+    "/letsgoapp/assets/Prepare.jpg": "bb6456a3f5b5cf2921d96d1ff5bfd3efb0623dee",
+    "/letsgoapp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/letsgoapp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/letsgoapp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/letsgoapp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/letsgoapp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/letsgoapp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/letsgoapp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/letsgoapp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/letsgoapp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/letsgoapp/index.html": "a899b7f8a9c6408346b311f5dc8b539cf5465680",
+    "/letsgoapp/main.e9fea21204f0633b.js": "73e59fa644895aa29aebfc532a916388f5e9ac97",
+    "/letsgoapp/manifest.webmanifest": "fce8e3ac5e20e65333e464872a8ac57844992f15",
+    "/letsgoapp/polyfills.4e4859c0aa531ce0.js": "1637026696b2e2b0ee546a8c9bf81897978006b6",
+    "/letsgoapp/runtime.cf4069cd491ef443.js": "bc453f54b89004c5c4f0d83cead14f9adecdf1fd",
+    "/letsgoapp/styles.cd6fe7f7403d0e0e.css": "f542a2d49a6aa46a5a471ed1605cec30a0ad5898"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
