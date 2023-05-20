@@ -5928,11 +5928,11 @@ const environment = {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @angular/common/http */ 8987);
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/core */ 2560);
-/* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @angular/platform-browser */ 4497);
-/* harmony import */ var _ngrx_store__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @ngrx/store */ 3488);
-/* harmony import */ var _ngrx_store_devtools__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @ngrx/store-devtools */ 5242);
-/* harmony import */ var _ngrx_effects__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @ngrx/effects */ 5405);
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @angular/core */ 2560);
+/* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/platform-browser */ 4497);
+/* harmony import */ var _ngrx_store__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @ngrx/store */ 3488);
+/* harmony import */ var _ngrx_store_devtools__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @ngrx/store-devtools */ 5242);
+/* harmony import */ var _ngrx_effects__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @ngrx/effects */ 5405);
 /* harmony import */ var _app_store_trip_effects__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./app/store/trip.effects */ 4339);
 /* harmony import */ var _app_store_trip_reducer__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./app/store/trip.reducer */ 8009);
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @angular/router */ 124);
@@ -5962,19 +5962,19 @@ __webpack_require__.r(__webpack_exports__);
 
 
 if (_environments_environment__WEBPACK_IMPORTED_MODULE_4__.environment.production) {
-  (0,_angular_core__WEBPACK_IMPORTED_MODULE_5__.enableProdMode)();
+  //enableProdMode();
 }
-(0,_angular_platform_browser__WEBPACK_IMPORTED_MODULE_6__.bootstrapApplication)(_app_app_component__WEBPACK_IMPORTED_MODULE_3__.AppComponent, {
-  providers: [(0,_ngrx_store__WEBPACK_IMPORTED_MODULE_7__.provideStore)({
+(0,_angular_platform_browser__WEBPACK_IMPORTED_MODULE_5__.bootstrapApplication)(_app_app_component__WEBPACK_IMPORTED_MODULE_3__.AppComponent, {
+  providers: [(0,_ngrx_store__WEBPACK_IMPORTED_MODULE_6__.provideStore)({
     trips: _app_store_trip_reducer__WEBPACK_IMPORTED_MODULE_1__.tripReducer
-  }), (0,_ngrx_effects__WEBPACK_IMPORTED_MODULE_8__.provideEffects)([_app_store_trip_effects__WEBPACK_IMPORTED_MODULE_0__.TripsEffects]), (0,_ngrx_store_devtools__WEBPACK_IMPORTED_MODULE_9__.provideStoreDevtools)({
+  }), (0,_ngrx_effects__WEBPACK_IMPORTED_MODULE_7__.provideEffects)([_app_store_trip_effects__WEBPACK_IMPORTED_MODULE_0__.TripsEffects]), (0,_ngrx_store_devtools__WEBPACK_IMPORTED_MODULE_8__.provideStoreDevtools)({
     maxAge: 25,
-    logOnly: !(0,_angular_core__WEBPACK_IMPORTED_MODULE_5__.isDevMode)(),
+    logOnly: !(0,_angular_core__WEBPACK_IMPORTED_MODULE_9__.isDevMode)(),
     autoPause: true,
     trace: false,
     traceLimit: 75 // maximum stack trace frames to be stored (in case trace option was provided as true)
-  }), (0,_angular_core__WEBPACK_IMPORTED_MODULE_5__.importProvidersFrom)(_angular_service_worker__WEBPACK_IMPORTED_MODULE_10__.ServiceWorkerModule.register('ngsw-worker.js', {
-    enabled: !(0,_angular_core__WEBPACK_IMPORTED_MODULE_5__.isDevMode)(),
+  }), (0,_angular_core__WEBPACK_IMPORTED_MODULE_9__.importProvidersFrom)(_angular_service_worker__WEBPACK_IMPORTED_MODULE_10__.ServiceWorkerModule.register('ngsw-worker.js', {
+    enabled: !(0,_angular_core__WEBPACK_IMPORTED_MODULE_9__.isDevMode)(),
     // Register the ServiceWorker as soon as the application is stable
     // or after 30 seconds (whichever comes first).
     registrationStrategy: 'registerWhenStable:30000'
@@ -6291,4 +6291,4 @@ webpackContext.id = 6700;
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ }
 ]);
-//# sourceMappingURL=main.5004aef573fd7936.js.map
+//# sourceMappingURL=main.5a2f78b061986a04.js.map
