@@ -1,7 +1,7 @@
 {
   "name": "LetsGo",
   "short_name": "LetsGo",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
