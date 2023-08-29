@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1693201754711,
+  "timestamp": 1693267266735,
   "index": "/letsgoapp/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "/letsgoapp/895.4a698b05e006640b.js",
         "/letsgoapp/favicon.ico",
         "/letsgoapp/index.html",
-        "/letsgoapp/main.4ae83e2fc2625939.js",
+        "/letsgoapp/main.7a1a9ebf9f84341f.js",
         "/letsgoapp/polyfills.ab0edfbecb8a1cef.js",
         "/letsgoapp/runtime.4ab74134577147b9.js",
         "/letsgoapp/styles.7d806ecacdf95e7c.css"
@@ -34,7 +34,6 @@
         "/letsgoapp/assets/Logo.svg",
         "/letsgoapp/assets/Planning.jpg",
         "/letsgoapp/assets/Prepare.jpg",
-        "/letsgoapp/assets/check2-circle.svg",
         "/letsgoapp/assets/files.svg",
         "/letsgoapp/assets/icons/icon-128x128.png",
         "/letsgoapp/assets/icons/icon-144x144.png",
@@ -64,7 +63,6 @@
     "/letsgoapp/assets/Logo.svg": "b1933d72c58ff607979deb89f059cd06ff6dc20d",
     "/letsgoapp/assets/Planning.jpg": "b9317ae5e376deb41a3dfb5f1a66e0f7c8482780",
     "/letsgoapp/assets/Prepare.jpg": "bb6456a3f5b5cf2921d96d1ff5bfd3efb0623dee",
-    "/letsgoapp/assets/check2-circle.svg": "a5f80db0ec6560a447419c6647f405d7937cab6b",
     "/letsgoapp/assets/files.svg": "d57e198ea90fad598acca560208012465bef1051",
     "/letsgoapp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/letsgoapp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -83,8 +81,8 @@
     "/letsgoapp/bootstrap-icons.02685dabe0850e40.woff2": "4c0efcf1dccc7295efc26fabe81ffe8f28d594a3",
     "/letsgoapp/bootstrap-icons.8463cb1e163733b5.woff": "d598cc620458b22d80443cdd69100217316efaf3",
     "/letsgoapp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/letsgoapp/index.html": "8c37fcd475014fb4e747eddfbc3af2afe23eeb47",
-    "/letsgoapp/main.4ae83e2fc2625939.js": "9b611a2a5d9c931462e1647399fa3676aab5c272",
+    "/letsgoapp/index.html": "b8939a0485cdd121131bcabc1a822918b8c5772c",
+    "/letsgoapp/main.7a1a9ebf9f84341f.js": "02d06377d0068164f14879735ee506881caa939a",
     "/letsgoapp/polyfills.ab0edfbecb8a1cef.js": "031c3efbd357d374ba3de86621ccae9c34e968ae",
     "/letsgoapp/runtime.4ab74134577147b9.js": "076dbb46a4fb04ae92fc199c6eafbf1a13fa5e0a",
     "/letsgoapp/styles.7d806ecacdf95e7c.css": "e7f8af44531ddf617a1f99cb962bbda2a9cb1b41"
