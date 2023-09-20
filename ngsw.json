@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1694839438084,
+  "timestamp": 1695210914677,
   "index": "/letsgoapp/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "/letsgoapp/895.4a698b05e006640b.js",
         "/letsgoapp/favicon.ico",
         "/letsgoapp/index.html",
-        "/letsgoapp/main.a0a40efeec403acc.js",
+        "/letsgoapp/main.ac05ea80794505a3.js",
         "/letsgoapp/polyfills.ab0edfbecb8a1cef.js",
         "/letsgoapp/runtime.4ab74134577147b9.js",
         "/letsgoapp/styles.7d806ecacdf95e7c.css"
@@ -37,6 +37,7 @@
         "/letsgoapp/assets/box-arrow-down.svg",
         "/letsgoapp/assets/chrome-install.png",
         "/letsgoapp/assets/files.svg",
+        "/letsgoapp/assets/icon-512x512-transparant.png",
         "/letsgoapp/assets/icons/icon-128x128.png",
         "/letsgoapp/assets/icons/icon-144x144.png",
         "/letsgoapp/assets/icons/icon-152x152.png",
@@ -68,6 +69,7 @@
     "/letsgoapp/assets/box-arrow-down.svg": "c0f08b8cafbb5afda6573758d54b6f79e06e27d7",
     "/letsgoapp/assets/chrome-install.png": "8acf096cf2f10ac07c1e872eb054eb5d715f1ce5",
     "/letsgoapp/assets/files.svg": "d57e198ea90fad598acca560208012465bef1051",
+    "/letsgoapp/assets/icon-512x512-transparant.png": "3ba3e47e2df8f245ff311257aab2bb92fc4daa2f",
     "/letsgoapp/assets/icons/icon-128x128.png": "a458c7b911bf6256650f0780a18ec69446d3316c",
     "/letsgoapp/assets/icons/icon-144x144.png": "6a2a74455682bab16b2a37b2621f052d73b892de",
     "/letsgoapp/assets/icons/icon-152x152.png": "7e057be85f45230ca43490a72802bff1b7534369",
@@ -85,8 +87,8 @@
     "/letsgoapp/bootstrap-icons.02685dabe0850e40.woff2": "4c0efcf1dccc7295efc26fabe81ffe8f28d594a3",
     "/letsgoapp/bootstrap-icons.8463cb1e163733b5.woff": "d598cc620458b22d80443cdd69100217316efaf3",
     "/letsgoapp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/letsgoapp/index.html": "3964d7041ea5d764304db306c410578a4ac856f0",
-    "/letsgoapp/main.a0a40efeec403acc.js": "ad82d4799adf5ece6519c38e1ec78985dd1e8f7c",
+    "/letsgoapp/index.html": "74721a85be6b7dfab097ed8ed8375bf92a3e12b5",
+    "/letsgoapp/main.ac05ea80794505a3.js": "708beb4eab889321be9d16eb503f84911af60ecb",
     "/letsgoapp/polyfills.ab0edfbecb8a1cef.js": "031c3efbd357d374ba3de86621ccae9c34e968ae",
     "/letsgoapp/runtime.4ab74134577147b9.js": "076dbb46a4fb04ae92fc199c6eafbf1a13fa5e0a",
     "/letsgoapp/styles.7d806ecacdf95e7c.css": "e7f8af44531ddf617a1f99cb962bbda2a9cb1b41"
