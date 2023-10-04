@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Maps Example</title>
+    <!-- Include the Google Maps JavaScript API with your API key -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCs5mlm2T_wCDxvbcFe8tzcWJoTsAOZ7zQ&libraries=places"></script>
+
+    <style>
+        /* Set the size of the map */
+        #map {
+            height: 400px;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Google Maps Example</h1>
+    
+    <!-- Create a div to hold the map -->
+    <div id="map"></div>
+
+    <script>
+        // Initialize the map
+        function initMap() {
+            // Specify the coordinates where you want to center the map
+            var mapCenter = { lat: 40.7128, lng: -74.0060 }; // Example: New York City
+
+            // Create a new map object and specify the DOM element where it should be displayed
+            var map = new google.maps.Map(document.getElementById('map'), {
+                center: mapCenter,
+                zoom: 12 // Adjust the zoom level as needed
+            });
+
+            // You can add markers, polygons, directions, etc. to the map here
+            // For example:
+            // var marker = new google.maps.Marker({
+            //     position: mapCenter,
+            //     map: map,
+            //     title: 'Hello World!'
+            // });
+        }
+
+        // Initialize the map when the page loads
+        window.onload = initMap;
+    </script>
+</body>
+</html>
