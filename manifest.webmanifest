@@ -5,8 +5,8 @@
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "/letsgoapp/",
-  "start_url": "/letsgoapp/index.html",
+  "scope": "./",
+  "start_url": "/letsgoapp/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
