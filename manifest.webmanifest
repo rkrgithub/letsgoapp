@@ -56,5 +56,9 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
-  ]
+  ],
+  "splash_pages": null,
+  "orientation": "portrait",
+  "apple-touch-icon": "assets/icons/icon-512x512.png",
+  "apple-mobile-web-app-capable": "yes"
 }
